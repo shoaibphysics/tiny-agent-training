@@ -1,0 +1,265 @@
+{
+  "model": "Qwen/Qwen3-0.6B",
+  "revision": "c1899de289a04d12100db370d81485cdf75e47ca",
+  "adapter": "runs/sft-3epochs/adapter",
+  "split": "validation",
+  "limit": null,
+  "max_new_tokens": 32,
+  "do_sample": false,
+  "correct": 12,
+  "total": 42,
+  "results": [
+    {
+      "start": 17,
+      "target": 15,
+      "answer": "sub sub",
+      "score": 1.0
+    },
+    {
+      "start": 8,
+      "target": 28,
+      "answer": "double double",
+      "score": 0.0
+    },
+    {
+      "start": 7,
+      "target": 10,
+      "answer": "add add add",
+      "score": 1.0
+    },
+    {
+      "start": 10,
+      "target": 17,
+      "answer": "add add add",
+      "score": 0.0
+    },
+    {
+      "start": 11,
+      "target": 10,
+      "answer": "sub",
+      "score": 1.0
+    },
+    {
+      "start": 6,
+      "target": 13,
+      "answer": "sub double sub",
+      "score": 0.0
+    },
+    {
+      "start": 10,
+      "target": 39,
+      "answer": "double sub double",
+      "score": 0.0
+    },
+    {
+      "start": 16,
+      "target": 128,
+      "answer": "double double",
+      "score": 0.0
+    },
+    {
+      "start": 12,
+      "target": 47,
+      "answer": "double sub double",
+      "score": 0.0
+    },
+    {
+      "start": 20,
+      "target": 17,
+      "answer": "sub sub sub",
+      "score": 1.0
+    },
+    {
+      "start": 18,
+      "target": 144,
+      "answer": "double double double",
+      "score": 1.0
+    },
+    {
+      "start": 4,
+      "target": 18,
+      "answer": "double double",
+      "score": 0.0
+    },
+    {
+      "start": 20,
+      "target": 40,
+      "answer": "double",
+      "score": 1.0
+    },
+    {
+      "start": 18,
+      "target": 40,
+      "answer": "sub double",
+      "score": 0.0
+    },
+    {
+      "start": 9,
+      "target": 16,
+      "answer": "double",
+      "score": 0.0
+    },
+    {
+      "start": 7,
+      "target": 29,
+      "answer": "double double sub",
+      "score": 0.0
+    },
+    {
+      "start": 17,
+      "target": 37,
+      "answer": "add double",
+      "score": 0.0
+    },
+    {
+      "start": 3,
+      "target": 2,
+      "answer": "sub sub",
+      "score": 0.0
+    },
+    {
+      "start": 3,
+      "target": 13,
+      "answer": "double sub double",
+      "score": 0.0
+    },
+    {
+      "start": 7,
+      "target": 6,
+      "answer": "sub",
+      "score": 1.0
+    },
+    {
+      "start": 15,
+      "target": 26,
+      "answer": "sub double",
+      "score": 0.0
+    },
+    {
+      "start": 10,
+      "target": 41,
+      "answer": "double sub double",
+      "score": 0.0
+    },
+    {
+      "start": 16,
+      "target": 68,
+      "answer": "double double",
+      "score": 0.0
+    },
+    {
+      "start": 16,
+      "target": 66,
+      "answer": "double add double",
+      "score": 1.0
+    },
+    {
+      "start": 9,
+      "target": 17,
+      "answer": "sub double sub",
+      "score": 0.0
+    },
+    {
+      "start": 15,
+      "target": 30,
+      "answer": "double",
+      "score": 1.0
+    },
+    {
+      "start": 4,
+      "target": 8,
+      "answer": "double",
+      "score": 1.0
+    },
+    {
+      "start": 11,
+      "target": 9,
+      "answer": "sub sub sub",
+      "score": 0.0
+    },
+    {
+      "start": 5,
+      "target": 11,
+      "answer": "sub double sub",
+      "score": 0.0
+    },
+    {
+      "start": 14,
+      "target": 52,
+      "answer": "double sub double",
+      "score": 0.0
+    },
+    {
+      "start": 13,
+      "target": 12,
+      "answer": "sub",
+      "score": 1.0
+    },
+    {
+      "start": 3,
+      "target": 4,
+      "answer": "add",
+      "score": 1.0
+    },
+    {
+      "start": 8,
+      "target": 13,
+      "answer": "add add double",
+      "score": 0.0
+    },
+    {
+      "start": 16,
+      "target": 30,
+      "answer": "sub double sub",
+      "score": 0.0
+    },
+    {
+      "start": 10,
+      "target": 24,
+      "answer": "sub double",
+      "score": 0.0
+    },
+    {
+      "start": 10,
+      "target": 42,
+      "answer": "double sub double",
+      "score": 0.0
+    },
+    {
+      "start": 4,
+      "target": 20,
+      "answer": "double double",
+      "score": 0.0
+    },
+    {
+      "start": 11,
+      "target": 20,
+      "answer": "add add add",
+      "score": 0.0
+    },
+    {
+      "start": 20,
+      "target": 42,
+      "answer": "sub double sub",
+      "score": 0.0
+    },
+    {
+      "start": 20,
+      "target": 84,
+      "answer": "double double sub",
+      "score": 0.0
+    },
+    {
+      "start": 10,
+      "target": 21,
+      "answer": "sub double sub",
+      "score": 0.0
+    },
+    {
+      "start": 7,
+      "target": 32,
+      "answer": "double double",
+      "score": 0.0
+    }
+  ]
+}

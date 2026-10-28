@@ -1,0 +1,14 @@
+[project]
+name = "tiny-agent-training"
+version = "0.1.0"
+description = "Minimal LLM post-training: SFT, GRPO, and tool-using agents in a tiny number game."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate==1.15.0",
+    "datasets==5.1.0",
+    "peft==0.21.2",
+    "torch==2.14.1",
+    "transformers==5.18.0",
+    "trl==1.16.0",
+]
